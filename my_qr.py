@@ -21,7 +21,7 @@ img = qr.make_image(
     fill_color="black",
     back_color="white"
 ).convert('RGB')
-
+print("Instagram")
 # Add Logo (optional)
 try:
     logo = Image.open(r"C:\Users\sathw\OneDrive\Desktop\python\logo.png")
