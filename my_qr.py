@@ -44,3 +44,5 @@ except FileNotFoundError:
 img.save(r"C:\Users\sathw\OneDrive\Desktop\custom_qr.png")
 
 print("QR Code Saved as custom_qr.png")
+print(" ")
+hello 
